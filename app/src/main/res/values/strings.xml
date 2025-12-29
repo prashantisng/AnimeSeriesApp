@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AnimeSeriesApp</string>
+    <string name="episode_count">episodes</string>
+</resources>
